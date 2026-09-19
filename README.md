@@ -87,8 +87,4 @@ This project is a plain static site and can be deployed directly to GitHub Pages
 | Explain assumptions / AI / next week | This README |
 | Payment may be emulated | Finance “Mark paid” action |
 
-## Submission checklist from the brief
 
-The brief asks for a public GitHub repository and a 3-5 minute unlisted video with the candidate on camera. The repository is prepared here; the account-specific publishing steps must be done from your GitHub/hosting/YouTube/Drive/Loom accounts.
-
-For the video, walk through: the requirements you identified, staff/manager/finance flows, duplicate protection, receipt parsing + correction, the paid-terminal rule, monthly spend/limits, what was difficult, and what you would build next.
